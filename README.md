@@ -1,2 +1,2 @@
 # Clases-chona
-push pull
+
